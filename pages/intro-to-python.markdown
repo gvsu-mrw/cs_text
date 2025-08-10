@@ -9,4 +9,7 @@ We now know what an algorithm is.  But how do we write one?  Computers communica
 
 The programming language we will be using is Python.  It is designed to be very easy for people to read and write.  
 
-<py-terminal></py-terminal>
+<script type="py-editor">
+  import sys
+  print(sys.version)
+</script>
