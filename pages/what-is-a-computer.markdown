@@ -9,7 +9,9 @@ I have read many definitions of what a computer is over the years. Most definiti
 what a computer does (usually something about input, processing and output). All definitions I
 have read are vague or abstract, and building a strong understanding of a vague concept is like
 placing the foundation of a building on swampland. In this book, we define a computer computer more
-simply: **A computer is a machine**.
+simply:
+
+**A computer is a machine**.
 
 Now, obviously we will eventually need a better definition than this. For now though, let us
 begin to build a foundation with this simple idea that most people already understand. The idea

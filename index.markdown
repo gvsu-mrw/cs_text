@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Contents
+
+[What is a computer anyway?](/what-is-a-computer)
